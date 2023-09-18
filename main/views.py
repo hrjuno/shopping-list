@@ -1,5 +1,4 @@
 from django.shortcuts import render
-from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from main.forms import ProductForm, Product
 from django.urls import reverse
